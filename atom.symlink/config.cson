@@ -1,9 +1,8 @@
 "*":
   editor:
     showIndentGuide: true
-    fontFamily: "Menlo"
+    fontFamily: "Hack"
     invisibles: {}
-    fontSize: 15
     softWrapAtPreferredLineLength: true
   core:
     ignoredNames: [
