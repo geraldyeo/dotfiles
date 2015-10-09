@@ -22,6 +22,7 @@
       "background-tips"
       "exception-reporting"
       "metrics"
+      "tree-view"
     ]
   "spell-check":
     grammars: [
@@ -33,3 +34,7 @@
     showOnStartup: false
   "release-notes":
     viewedVersion: "0.89.0"
+  "file-watcher":
+    promptWhenFileHasChangedOnDisk: false
+  nuclide:
+    remoteProjectsConfig: []

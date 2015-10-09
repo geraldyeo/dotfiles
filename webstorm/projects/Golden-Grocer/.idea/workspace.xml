@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ac9794c-6564-4b5e-a2bc-82f3299fb796" name="Default" comment="" />
+    <ignored path="Golden-Grocer.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Golden Grocer$Karma_GG.coverage" NAME="Karma GG Coverage Results" MODIFIED="1432023234891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="KarmaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Golden Grocer$GG.coverage" NAME="GG Coverage Results" MODIFIED="1432176072715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="KarmaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Golden-Grocer" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Html5" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="SHOW_REMOTE_BRANCHES" value="true" />
+    <option name="ONTO" value="refs/remotes/upstream/develop" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Code/Redmart/Golden-Grocer" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$USER_HOME$/RedMart/Frontend/Golden-Grocer" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/jsx/list/MyList.jsx" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/README.md" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/jsx/DefaultLandingPage.jsx" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/modules/Session/Facebook.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/constants.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/modules/Orders.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/libs/facebooksdk.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/modules/Account.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/modules/Mylist.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/templates/cart/checkoutpayment.html" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/styles/modules/cart/checkoutpayment.styl" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/loader.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/jsx/authentication/Signin.jsx" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/modules/Catalog.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/views/authentication/Signin.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/app.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/libs/logger.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/main.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/modules/Layouts.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/jsx/orders/OrderDetails.jsx" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/modules/RDS.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/templates/cart/selectedslot.html" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/conf/env.beta.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/conf/env.prod.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/conf/env.staging.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/sstests/HomepageTilesTest.jsx" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/jsx/OrdersAmendWizard.jsx" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/sstests/HomepageValueProposition.jsx.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/styles/sstests/homepageSearchBanner.styl" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/sstests/HomepageSearchBanner.jsx" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/sstests/HomepageValueProposition.jsx" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/libs/tealium.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/tests/units/models/Orders.spec.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/bvreview.html" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/Gruntfile.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/jsx/products/ProductDetailWrapper.jsx" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/README.md" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/jsx/ProductBrowser.jsx" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/index.html" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/jsx/products/ProductDetail.jsx" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/jsx/products/ProductShelf.jsx" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/jsx/products/ProductPreviewView.jsx" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/modules/Session/Account.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/modules/Products.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/conf/env.dev.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/jsx/products/ProductUpsell.jsx" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/commons.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/jsx/list/AddToListWrapper.jsx" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/router.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/modules/Checkout/Delivery.js" />
+        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/modules/Cart.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="JsKarmaPackageDirSetting">
+    <data>$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/node_modules/karma</data>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="830" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>BashSupport</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Meteor</id>
+          </State>
+          <State>
+            <id>Unit testingJavaScript</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>KarmaConfigFile</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Web">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Golden-Grocer">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Golden-Grocer">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="www">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Golden-Grocer">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Golden-Grocer">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="www">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Golden-Grocer">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="www">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="source">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Golden-Grocer">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="www">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="source">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="js">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Code/Redmart/Golden-Grocer/www/node_modules/grunt-jscs/node_modules/jscs" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="JavaScriptLanguageLevel" value="JSX" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v4.1.2/bin/node" />
+    <property name="js-jscs-package" value="$USER_HOME$/Code/Redmart/Golden-Grocer/www/node_modules/grunt-jscs/node_modules/jscs" />
+    <property name="js.eslint.nodeInterpreter" value="$USER_HOME$/.nvm/v0.10.38/bin/node" />
+    <property name="js.eslint.eslintPackage" value="$USER_HOME$/.nvm/v0.10.38/lib/node_modules/eslint" />
+    <property name="js.buildTools.grunt.node_interpreter" value="$USER_HOME$/.nvm/v0.10.38/bin/node" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="$USER_HOME$/.nvm/v0.10.38/lib/node_modules/grunt-cli" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="94" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="111" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="115" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="909" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="106" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="107" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="111" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="905" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="com.intellij.ide.scratch.NewScratchFileAction" value="JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/tests" />
+      <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www" />
+      <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/tests/units/models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/tests" />
+      <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/tests/units" />
+      <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/tests/units/models/fixtures" />
+      <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/tests/unit/modules/Session" />
+      <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/tests/unit/modules" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Karma.GG">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <pass-parent-env-vars value="true" />
+      <force value="false" />
+      <verbose value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="GG" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/karma.conf.js">
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Karma.GG" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ac9794c-6564-4b5e-a2bc-82f3299fb796" name="Default" comment="" />
+      <created>1428665497254</created>
+      <option name="number" value="Default" />
+      <updated>1428665497254</updated>
+    </task>
+    <task id="LOCAL-00217" summary="bump alpha api version">
+      <created>1441074993555</created>
+      <option name="number" value="00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1441074993555</updated>
+    </task>
+    <task id="LOCAL-00218" summary="edo wip">
+      <created>1441088203289</created>
+      <option name="number" value="00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1441088203289</updated>
+    </task>
+    <task id="LOCAL-00219" summary="edo wip">
+      <created>1441088543625</created>
+      <option name="number" value="00219" />
+      <option name="project" value="LOCAL" />
+      <updated>1441088543625</updated>
+    </task>
+    <task id="LOCAL-00220" summary="edo logic change">
+      <created>1441165133756</created>
+      <option name="number" value="00220" />
+      <option name="project" value="LOCAL" />
+      <updated>1441165133756</updated>
+    </task>
+    <task id="LOCAL-00221" summary="wip">
+      <created>1441188201308</created>
+      <option name="number" value="00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1441188201308</updated>
+    </task>
+    <task id="LOCAL-00222" summary="wip">
+      <created>1441247031854</created>
+      <option name="number" value="00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1441247031854</updated>
+    </task>
+    <task id="LOCAL-00223" summary="copy contact number to mobile number if empty">
+      <created>1441604910628</created>
+      <option name="number" value="00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1441604910632</updated>
+    </task>
+    <task id="LOCAL-00224" summary="fix: reload page for dynamic routes">
+      <created>1441679110407</created>
+      <option name="number" value="00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1441679110407</updated>
+    </task>
+    <task id="LOCAL-00225" summary="value proposition variant start">
+      <created>1441684269151</created>
+      <option name="number" value="00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1441684269155</updated>
+    </task>
+    <task id="LOCAL-00226" summary="page variant wip">
+      <created>1441694997363</created>
+      <option name="number" value="00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1441694997363</updated>
+    </task>
+    <task id="LOCAL-00227" summary="page variant wip">
+      <created>1441695565085</created>
+      <option name="number" value="00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1441695565085</updated>
+    </task>
+    <task id="LOCAL-00228" summary="strip banner markup and style">
+      <created>1441771473365</created>
+      <option name="number" value="00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1441771473365</updated>
+    </task>
+    <task id="LOCAL-00229" summary="stripbanner markup in search banner variant">
+      <created>1441775900801</created>
+      <option name="number" value="00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1441775900801</updated>
+    </task>
+    <task id="LOCAL-00230" summary="cleanups and refactors">
+      <created>1441788742837</created>
+      <option name="number" value="00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1441788742837</updated>
+    </task>
+    <task id="LOCAL-00231" summary="cleanups and refactors">
+      <created>1441789991029</created>
+      <option name="number" value="00231" />
+      <option name="project" value="LOCAL" />
+      <updated>1441789991029</updated>
+    </task>
+    <task id="LOCAL-00232" summary="cleanups and refactors">
+      <created>1441864554546</created>
+      <option name="number" value="00232" />
+      <option name="project" value="LOCAL" />
+      <updated>1441864554546</updated>
+    </task>
+    <task id="LOCAL-00233" summary="cleanups and refactors">
+      <created>1441869140851</created>
+      <option name="number" value="00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1441869140851</updated>
+    </task>
+    <task id="LOCAL-00234" summary="remove commons.stripBanner">
+      <created>1441869331941</created>
+      <option name="number" value="00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1441869331941</updated>
+    </task>
+    <task id="LOCAL-00235" summary="fix jshint error">
+      <created>1442201888530</created>
+      <option name="number" value="00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1442201888530</updated>
+    </task>
+    <task id="LOCAL-00236" summary="value proposition href">
+      <created>1442202722025</created>
+      <option name="number" value="00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1442202722026</updated>
+    </task>
+    <task id="LOCAL-00237" summary="update badges">
+      <created>1442210023964</created>
+      <option name="number" value="00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1442210023964</updated>
+    </task>
+    <task id="LOCAL-00238" summary="track order amend">
+      <created>1442214574495</created>
+      <option name="number" value="00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1442214574495</updated>
+    </task>
+    <task id="LOCAL-00239" summary="event_action">
+      <created>1442296496096</created>
+      <option name="number" value="00239" />
+      <option name="project" value="LOCAL" />
+      <updated>1442296496097</updated>
+    </task>
+    <task id="LOCAL-00240" summary="bv review page start">
+      <created>1442454351367</created>
+      <option name="number" value="00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1442454351367</updated>
+    </task>
+    <task id="LOCAL-00241" summary="minimal styling since mostly `!important` ¯\_(ツ)_/¯">
+      <created>1442470459067</created>
+      <option name="number" value="00241" />
+      <option name="project" value="LOCAL" />
+      <updated>1442470459067</updated>
+    </task>
+    <task id="LOCAL-00242" summary="favicon">
+      <created>1442473767885</created>
+      <option name="number" value="00242" />
+      <option name="project" value="LOCAL" />
+      <updated>1442473767885</updated>
+    </task>
+    <task id="LOCAL-00243" summary="prettify page :art:">
+      <created>1442478184891</created>
+      <option name="number" value="00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1442478184891</updated>
+    </task>
+    <task id="LOCAL-00244" summary="prettify page :art:">
+      <created>1442478919293</created>
+      <option name="number" value="00244" />
+      <option name="project" value="LOCAL" />
+      <updated>1442478919293</updated>
+    </task>
+    <task id="LOCAL-00245" summary="css prefixes">
+      <created>1442479582406</created>
+      <option name="number" value="00245" />
+      <option name="project" value="LOCAL" />
+      <updated>1442479582406</updated>
+    </task>
+    <task id="LOCAL-00246" summary="remove protocol for script and link tags">
+      <created>1442554804840</created>
+      <option name="number" value="00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1442554804845</updated>
+    </task>
+    <task id="LOCAL-00247" summary="troubleshoot">
+      <created>1442559161486</created>
+      <option name="number" value="00247" />
+      <option name="project" value="LOCAL" />
+      <updated>1442559161486</updated>
+    </task>
+    <task id="LOCAL-00248" summary="troubleshoot">
+      <created>1442560125186</created>
+      <option name="number" value="00248" />
+      <option name="project" value="LOCAL" />
+      <updated>1442560125186</updated>
+    </task>
+    <task id="LOCAL-00249" summary="troubleshoot">
+      <created>1442561208163</created>
+      <option name="number" value="00249" />
+      <option name="project" value="LOCAL" />
+      <updated>1442561208164</updated>
+    </task>
+    <task id="LOCAL-00250" summary="bv container fix">
+      <created>1442561815214</created>
+      <option name="number" value="00250" />
+      <option name="project" value="LOCAL" />
+      <updated>1442561815214</updated>
+    </task>
+    <task id="LOCAL-00251" summary="bv inline rating container">
+      <created>1442913220402</created>
+      <option name="number" value="00251" />
+      <option name="project" value="LOCAL" />
+      <updated>1442913220402</updated>
+    </task>
+    <task id="LOCAL-00252" summary="wip">
+      <created>1443172133362</created>
+      <option name="number" value="00252" />
+      <option name="project" value="LOCAL" />
+      <updated>1443172133362</updated>
+    </task>
+    <task id="LOCAL-00253" summary="cart refactoring">
+      <created>1443172227265</created>
+      <option name="number" value="00253" />
+      <option name="project" value="LOCAL" />
+      <updated>1443172227265</updated>
+    </task>
+    <task id="LOCAL-00254" summary="inline rating wip">
+      <created>1443497755288</created>
+      <option name="number" value="00254" />
+      <option name="project" value="LOCAL" />
+      <updated>1443497755288</updated>
+    </task>
+    <task id="LOCAL-00255" summary="inline rating wip">
+      <created>1443498712882</created>
+      <option name="number" value="00255" />
+      <option name="project" value="LOCAL" />
+      <updated>1443498712882</updated>
+    </task>
+    <task id="LOCAL-00256" summary="inline rating wip">
+      <created>1443504133878</created>
+      <option name="number" value="00256" />
+      <option name="project" value="LOCAL" />
+      <updated>1443504133878</updated>
+    </task>
+    <task id="LOCAL-00257" summary="inline rating wip">
+      <created>1443507536993</created>
+      <option name="number" value="00257" />
+      <option name="project" value="LOCAL" />
+      <updated>1443507536995</updated>
+    </task>
+    <task id="LOCAL-00258" summary="inline rating wip">
+      <created>1443513990198</created>
+      <option name="number" value="00258" />
+      <option name="project" value="LOCAL" />
+      <updated>1443513990198</updated>
+    </task>
+    <task id="LOCAL-00259" summary="inline rating wip">
+      <created>1443515351209</created>
+      <option name="number" value="00259" />
+      <option name="project" value="LOCAL" />
+      <updated>1443515351209</updated>
+    </task>
+    <task id="LOCAL-00260" summary="roi beacon">
+      <created>1443666380587</created>
+      <option name="number" value="00260" />
+      <option name="project" value="LOCAL" />
+      <updated>1443666380587</updated>
+    </task>
+    <task id="LOCAL-00261" summary="fixed a couple of accessing property on undefined errors">
+      <created>1443679356139</created>
+      <option name="number" value="00261" />
+      <option name="project" value="LOCAL" />
+      <updated>1443679356139</updated>
+    </task>
+    <task id="LOCAL-00262" summary="event fixes wip">
+      <created>1444111344743</created>
+      <option name="number" value="00262" />
+      <option name="project" value="LOCAL" />
+      <updated>1444111344744</updated>
+    </task>
+    <task id="LOCAL-00263" summary="event fixes wip">
+      <created>1444114905048</created>
+      <option name="number" value="00263" />
+      <option name="project" value="LOCAL" />
+      <updated>1444114905048</updated>
+    </task>
+    <task id="LOCAL-00264" summary="event fixes wip">
+      <created>1444121651480</created>
+      <option name="number" value="00264" />
+      <option name="project" value="LOCAL" />
+      <updated>1444121651480</updated>
+    </task>
+    <task id="LOCAL-00265" summary="event fixes wip">
+      <created>1444208196313</created>
+      <option name="number" value="00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1444208196317</updated>
+    </task>
+    <option name="localTasksCounter" value="266" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="830" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17829457" sideWeight="0.54291624" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30758807" sideWeight="0.5116279" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2777778" sideWeight="0.4883721" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24952501" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18867925" sideWeight="0.48790008" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16846105" sideWeight="0.45708376" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23441735" sideWeight="0.49447078" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30758807" sideWeight="0.5116279" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28455284" sideWeight="0.4883721" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18867925" sideWeight="0.48790008" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22973925" sideWeight="0.54291624" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16846105" sideWeight="0.45708376" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2601626" sideWeight="0.49447078" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24952501" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+    </ignored-roots>
+    <MESSAGE value="stripbanner markup in search banner variant" />
+    <MESSAGE value="cleanups and refactors" />
+    <MESSAGE value="remove commons.stripBanner" />
+    <MESSAGE value="fix jshint error" />
+    <MESSAGE value="value proposition href" />
+    <MESSAGE value="update badges" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="track order amend" />
+    <MESSAGE value="event_action" />
+    <MESSAGE value="bv review page start" />
+    <MESSAGE value="minimal styling since mostly `!important` ¯\_(ツ)_/¯" />
+    <MESSAGE value="favicon" />
+    <MESSAGE value="prettify page" />
+    <MESSAGE value="prettify page :art:" />
+    <MESSAGE value="css prefixes" />
+    <MESSAGE value="remove protocol for script and link tags" />
+    <MESSAGE value="troubleshoot" />
+    <MESSAGE value="bv container fix" />
+    <MESSAGE value="bv inline rating container" />
+    <MESSAGE value="wip" />
+    <MESSAGE value="cart refactoring" />
+    <MESSAGE value="inline rating wip" />
+    <MESSAGE value="roi beacon" />
+    <MESSAGE value="fixed a couple of accessing property on undefined errors" />
+    <MESSAGE value="event fixes wip" />
+    <option name="LAST_COMMIT_MESSAGE" value="event fixes wip" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/modules/Session/Base.js</url>
+          <line>7</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Code/Redmart/Golden-Grocer/www/source/js/constants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81179774">
+          <caret line="34" column="60" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
