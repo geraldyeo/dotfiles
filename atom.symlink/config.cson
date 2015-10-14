@@ -22,7 +22,6 @@
       "background-tips"
       "exception-reporting"
       "metrics"
-      "tree-view"
     ]
   "spell-check":
     grammars: [
