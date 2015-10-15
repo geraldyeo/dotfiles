@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$USER_HOME$/Code/Redmart/Golden-Grocer">
-      <sourceFolder url="file://$USER_HOME$/Code/Redmart/Golden-Grocer/www/tests" isTestSource="true" />
-      <excludeFolder url="file://$USER_HOME$/Code/Redmart/Golden-Grocer/ci" />
-      <excludeFolder url="file://$USER_HOME$/Code/Redmart/Golden-Grocer/docs" />
+    <content url="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer">
+      <sourceFolder url="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/tests" isTestSource="true" />
+      <excludeFolder url="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/ci" />
+      <excludeFolder url="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/docs" />
+      <excludeFolder url="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/intermediate" />
+      <excludeFolder url="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/node_modules" />
+      <excludeFolder url="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/publish" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

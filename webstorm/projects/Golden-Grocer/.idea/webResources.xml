@@ -2,10 +2,10 @@
 <project version="4">
   <component name="WebResourcesPaths">
     <contentEntries>
-      <entry url="file://$USER_HOME$/Code/Redmart/Golden-Grocer">
+      <entry url="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer">
         <entryData>
           <resourceRoots>
-            <path value="file://$USER_HOME$/Code/Redmart/Golden-Grocer" />
+            <path value="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer" />
           </resourceRoots>
         </entryData>
       </entry>
