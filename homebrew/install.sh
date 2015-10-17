@@ -22,6 +22,6 @@ then
 fi
 
 # Install homebrew packages
-brew install grc coreutils spark git hub git-flow
+brew install grc coreutils spark git hub git-flow nvm zsh flow thefuck
 
 exit 0
