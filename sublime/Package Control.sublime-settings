@@ -1,1 +1,24 @@
-/Users/gerald/.dotfiles/sublime/Package Control.sublime-settings
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Babel",
+		"Babel Snippets",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"StandardFormat",
+		"SublimeLinter",
+		"SublimeLinter-contrib-standard",
+		"Trimmer"
+	]
+}
