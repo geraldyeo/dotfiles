@@ -8,17 +8,21 @@
 		"Alignment",
 		"Babel",
 		"Babel Snippets",
+		"BracketHighlighter",
 		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
 		"Git",
 		"GitGutter",
+		"Package Control",
 		"Seti_UI",
 		"Seti_UX",
 		"SideBarEnhancements",
 		"StandardFormat",
 		"SublimeLinter",
 		"SublimeLinter-contrib-standard",
+		"SublimeLinter-flow",
+		"SyncedSideBar",
 		"Trimmer"
 	]
 }
