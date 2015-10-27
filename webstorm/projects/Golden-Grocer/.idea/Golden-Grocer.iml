@@ -8,6 +8,7 @@
       <excludeFolder url="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/intermediate" />
       <excludeFolder url="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/node_modules" />
       <excludeFolder url="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/publish" />
+      <excludeFolder url="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/reports" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
