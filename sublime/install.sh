@@ -7,4 +7,5 @@ if [ -d "$SUBLIME" ]; then
   cd "$SUBLIME"
   ln -s -f ~/.dotfiles/sublime/Package\ Control.sublime-settings
   ln -s -f ~/.dotfiles/sublime/Preferences.sublime-settings
+  ln -s -f ~/.dotfiles/sublime/StandardFormat.sublime-settings
 fi

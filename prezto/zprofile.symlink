@@ -73,3 +73,13 @@ if [[ ! -d "$TMPDIR" ]]; then
 fi
 
 TMPPREFIX="${TMPDIR%/}/zsh"
+
+#
+# NVM
+#
+
+export NVM_DIR=~/.nvm
+
+if [[ -s $(brew --prefix nvm)/nvm.sh ]]; then
+  source $(brew --prefix nvm)/nvm.sh
+fi
