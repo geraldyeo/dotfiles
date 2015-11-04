@@ -20,6 +20,7 @@
 		"SideBarEnhancements",
 		"StandardFormat",
 		"SublimeLinter",
+		"SublimeLinter-contrib-happiness",
 		"SublimeLinter-contrib-standard",
 		"SublimeLinter-flow",
 		"SyncedSideBar",
