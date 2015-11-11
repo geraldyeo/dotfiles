@@ -24,44 +24,14 @@
     <favorites_list name="Golden-Grocer" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="SelectedSlot.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/delivery/SelectedSlot.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="selectedslot.html" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/templates/cart/selectedslot.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2979651">
-              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="commons.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/commons.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Html5" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -82,16 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/modules/Checkout/Delivery.js" />
-        <option value="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/source/js/modules/Cart.js" />
-        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/router.js" />
-        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/list/AddToListWrapper.jsx" />
-        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/products/ProductDetailWrapper.jsx" />
-        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/products/ProductUpsell.jsx" />
-        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/modules/Account.js" />
-        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/modules/Catalog.js" />
-        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/modules/Layouts.js" />
-        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/modules/Mylist.js" />
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/libs/jquery.cachedScript.js" />
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/libs/facebooksdk.js" />
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/sstests/HomepageValueProposition.jsx" />
@@ -104,7 +64,6 @@
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/libs/react-global.js" />
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/libs/globalizer.js" />
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/loader.js" />
-        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/package.json" />
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/libs/i18n.js" />
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/authentication/Signin.jsx" />
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/authentication/ResetPassword.jsx" />
@@ -125,14 +84,25 @@
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/cart/CartPreview.jsx" />
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/views/Footer.js" />
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/libs/moment.mixin.js" />
-        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/locales/en-sg.js" />
-        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/Gruntfile.js" />
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/modules/EDS.js" />
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/cards/EDT.jsx" />
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/commons.js" />
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/modules/Checkout/Delivery.js" />
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/delivery/SelectedSlot.jsx" />
         <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/templates/cart/selectedslot.html" />
+        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/tasks/locales/en-sg.json" />
+        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/tasks/head.html" />
+        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/tasks/locales.json" />
+        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/index.html.tpl" />
+        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/locales/en-hk.js" />
+        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/locales/en-sg.js" />
+        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/locales/zh-hk.js" />
+        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/intermediate/index.en-hk.html" />
+        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/intermediate/index.html" />
+        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/intermediate/index.zh-hk.html" />
+        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/intermediate/index.en-sg.html" />
+        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/package.json" />
+        <option value="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/Gruntfile.js" />
       </list>
     </option>
   </component>
@@ -145,9 +115,10 @@
     <data>$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/node_modules/karma</data>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-2560" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="834" />
+    <option name="width" value="1737" />
+    <option name="height" value="1370" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -217,17 +188,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Golden-Grocer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Web">
           <PATH>
@@ -261,6 +221,16 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="node_modules">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="Golden-Grocer">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
@@ -276,6 +246,24 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="www">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Golden-Grocer">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="www">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="tasks">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -294,54 +282,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="source">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Golden-Grocer">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="www">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="source">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="templates">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Golden-Grocer">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="www">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="source">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="templates">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="cart">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -389,39 +329,98 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="jsx">
+            <PATH_ELEMENT USER_OBJECT="locales">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
           <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Golden-Grocer">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="www">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="source">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="js">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="jsx">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="delivery">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Golden-Grocer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="publish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -461,23 +460,24 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="905" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
-    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="com.intellij.ide.scratch.NewScratchFileAction" value="JavaScript" />
     <property name="javascript.nodejs.core.library.configured.version" value="4.2.1" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/libs" />
-      <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/tests" />
-      <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www" />
-      <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/tests/units/models" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/locales" />
       <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/tests" />
       <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/tests/units" />
       <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/tests/units/models/fixtures" />
       <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/tests/unit/modules/Session" />
-      <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/tests/unit/modules" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/locales" />
+      <recent name="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source" />
+      <recent name="$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/libs" />
+      <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www/tests" />
+      <recent name="$USER_HOME$/RedMart/Frontend/Golden-Grocer/www" />
     </key>
   </component>
   <component name="RunManager" selected="Karma.GG">
@@ -556,30 +556,6 @@
       <created>1428665497254</created>
       <option name="number" value="Default" />
       <updated>1428665497254</updated>
-    </task>
-    <task id="LOCAL-00241" summary="minimal styling since mostly `!important` ¯\_(ツ)_/¯">
-      <created>1442470459067</created>
-      <option name="number" value="00241" />
-      <option name="project" value="LOCAL" />
-      <updated>1442470459067</updated>
-    </task>
-    <task id="LOCAL-00242" summary="favicon">
-      <created>1442473767885</created>
-      <option name="number" value="00242" />
-      <option name="project" value="LOCAL" />
-      <updated>1442473767885</updated>
-    </task>
-    <task id="LOCAL-00243" summary="prettify page :art:">
-      <created>1442478184891</created>
-      <option name="number" value="00243" />
-      <option name="project" value="LOCAL" />
-      <updated>1442478184891</updated>
-    </task>
-    <task id="LOCAL-00244" summary="prettify page :art:">
-      <created>1442478919293</created>
-      <option name="number" value="00244" />
-      <option name="project" value="LOCAL" />
-      <updated>1442478919293</updated>
     </task>
     <task id="LOCAL-00245" summary="css prefixes">
       <created>1442479582406</created>
@@ -851,33 +827,57 @@
       <option name="project" value="LOCAL" />
       <updated>1446715519698</updated>
     </task>
-    <option name="localTasksCounter" value="290" />
+    <task id="LOCAL-00290" summary="grunt work for i18n in gruntfile">
+      <created>1446797324357</created>
+      <option name="number" value="00290" />
+      <option name="project" value="LOCAL" />
+      <updated>1446797324358</updated>
+    </task>
+    <task id="LOCAL-00291" summary="grunt work for i18n in gruntfile">
+      <created>1446797366696</created>
+      <option name="number" value="00291" />
+      <option name="project" value="LOCAL" />
+      <updated>1446797366696</updated>
+    </task>
+    <task id="LOCAL-00292" summary="grunt work for i18n in gruntfile">
+      <created>1446799063282</created>
+      <option name="number" value="00292" />
+      <option name="project" value="LOCAL" />
+      <updated>1446799063282</updated>
+    </task>
+    <task id="LOCAL-00293" summary="grunt work for i18n in gruntfile">
+      <created>1446799544599</created>
+      <option name="number" value="00293" />
+      <option name="project" value="LOCAL" />
+      <updated>1446799544599</updated>
+    </task>
+    <option name="localTasksCounter" value="294" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="834" extended-state="0" />
-    <editor active="true" />
+    <frame x="-2560" y="23" width="1737" height="1370" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20225511" sideWeight="0.54291624" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19405594" sideWeight="0.54291624" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.51231134" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2313489" sideWeight="0.49447078" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43261456" sideWeight="0.46942016" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18834688" sideWeight="0.48790008" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32785603" sideWeight="0.48768863" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18834688" sideWeight="0.48790008" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991013" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16846105" sideWeight="0.45708376" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23180594" sideWeight="0.49447078" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -895,7 +895,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../../.." />
     </ignored-roots>
-    <MESSAGE value="fixed a couple of accessing property on undefined errors" />
     <MESSAGE value="event fixes wip" />
     <MESSAGE value="add back gtm" />
     <MESSAGE value="fb-sdk https protocol" />
@@ -920,7 +919,8 @@
     <MESSAGE value="L10n: Context cards, footer, non-critical components&#10;&#10;# Conflicts:&#10;#&#9;www/source/js/commons.js&#10;#&#9;www/source/js/jsx/Footer.jsx&#10;#&#9;www/source/js/modules/EDS.js&#10;" />
     <MESSAGE value="wip" />
     <MESSAGE value="edo incentive" />
-    <option name="LAST_COMMIT_MESSAGE" value="edo incentive" />
+    <MESSAGE value="grunt work for i18n in gruntfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="grunt work for i18n in gruntfile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -935,132 +935,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/AddToCartWrapper.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1629393">
-          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/libs/react-with-addons.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21353" column="24" selection-start-line="21353" selection-start-column="24" selection-end-line="21353" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/libs/googletagmanager.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/loader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2808">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04731861">
-          <caret line="969" column="12" selection-start-line="969" selection-start-column="12" selection-end-line="969" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/conf/env.prod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/authentication/Signin.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68722945">
-          <caret line="92" column="107" selection-start-line="92" selection-start-column="107" selection-end-line="92" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/authentication/ResetPassword.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37445888">
-          <caret line="106" column="105" selection-start-line="106" selection-start-column="105" selection-end-line="106" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/authentication/Forgot.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6056">
-          <caret line="57" column="92" selection-start-line="57" selection-start-column="92" selection-end-line="57" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/cards/PrimaryCard.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/cards/RDS.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.074074">
-          <caret line="57" column="57" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/mainlayout.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37012988">
-          <caret line="62" column="61" selection-start-line="62" selection-start-column="61" selection-end-line="62" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/banners/BannerShelfWrapper.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.93398875">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/banners/Carousel.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6053371">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/banners/PlainBanner.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.98174155">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="243" column="8" selection-start-line="243" selection-start-column="8" selection-end-line="243" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/modules/Cart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48979592">
-          <caret line="631" column="40" selection-start-line="631" selection-start-column="40" selection-end-line="631" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/conf/env.dev.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2633803">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/products/ProductPreviewView.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-20.11111">
@@ -1173,25 +1047,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4384787">
-          <caret line="654" column="31" selection-start-line="654" selection-start-column="31" selection-end-line="654" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="34.5">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13869864">
           <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1206,7 +1065,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1242,7 +1100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.56329113">
           <caret line="74" column="38" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1267,21 +1124,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50145346">
-          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/delivery/SelectedSlot.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/commons.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1292,8 +1134,190 @@
     </entry>
     <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/templates/cart/selectedslot.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2979651">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        <state vertical-scroll-proportion="0.33527696">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/jsx/delivery/SelectedSlot.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51544946">
+          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/tasks/localize.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.123941496">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/tasks/karmaunit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/node_modules/grunt-include-replace/tasks/includereplace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.018067557">
+          <caret line="84" column="6" selection-start-line="84" selection-start-column="6" selection-end-line="84" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/tasks/locales.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36135113">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/index.html.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/locales/conf.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/locales/messages.en-sg.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/locales/messages.zh-hk.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/locales/en-hk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.123941496">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/locales/en-sg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="9" selection-start-line="17" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/locales/zh-hk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33641264">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/source/js/locales/messages.en-hk.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/intermediate/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.22140522">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/intermediate/index.en-hk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71405226">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/intermediate/index.zh-hk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/intermediate/index.en-sg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/publish/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058070026">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/ci/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Redmart/Frontend/Golden-Grocer/www/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1448">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
