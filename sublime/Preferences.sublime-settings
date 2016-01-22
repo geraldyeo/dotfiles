@@ -1,8 +1,14 @@
 {
-	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
+	"fade_fold_buttons": false,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"theme": "Seti.sublime-theme"
 }

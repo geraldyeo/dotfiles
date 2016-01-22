@@ -18,10 +18,8 @@
 		"Seti_UI",
 		"Seti_UX",
 		"SideBarEnhancements",
-		"StandardFormat",
 		"SublimeLinter",
-		"SublimeLinter-contrib-happiness",
-		"SublimeLinter-contrib-standard",
+		"SublimeLinter-contrib-eslint_d",
 		"SublimeLinter-flow",
 		"SyncedSideBar",
 		"Trimmer"

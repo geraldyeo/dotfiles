@@ -10,7 +10,7 @@ run_npm () {
 	then
 	  echo "  Installing npm packages for you."
 
-	  local packages="npm eslint standard standard-format happiness babel-cli"
+	  local packages="npm eslint eslint_d standard standard-format happiness babel-cli npm-check-updates"
 	  npm i -g $packages
 	fi
 }
