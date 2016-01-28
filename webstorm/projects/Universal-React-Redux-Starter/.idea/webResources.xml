@@ -2,10 +2,10 @@
 <project version="4">
   <component name="WebResourcesPaths">
     <contentEntries>
-      <entry url="file://$USER_HOME$/Code/gerald/frontend-boilerplate">
+      <entry url="file://$USER_HOME$/Code/gerald/universal-react-redux-starter">
         <entryData>
           <resourceRoots>
-            <path value="file://$USER_HOME$/Code/gerald/frontend-boilerplate" />
+            <path value="file://$USER_HOME$/Code/gerald/universal-react-redux-starter" />
           </resourceRoots>
         </entryData>
       </entry>

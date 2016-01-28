@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$USER_HOME$/Code/gerald/frontend-boilerplate">
-      <sourceFolder url="file://$USER_HOME$/Code/gerald/frontend-boilerplate/tests" isTestSource="true" />
+    <content url="file://$USER_HOME$/Code/gerald/universal-react-redux-starter">
+      <sourceFolder url="file://$USER_HOME$/Code/gerald/universal-react-redux-starter/tests" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="react-DefinitelyTyped" level="application" />
     <orderEntry type="library" name="frontend-boilerplate node_modules" level="project" />
+    <orderEntry type="library" name="universal-react-redux-starter node_modules" level="project" />
   </component>
 </module>
