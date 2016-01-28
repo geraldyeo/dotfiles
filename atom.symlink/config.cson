@@ -8,6 +8,7 @@
       "seti-syntax"
     ]
   editor:
+    fontFamily: "Hack"
     invisibles: {}
   "exception-reporting":
     userId: "b0ac1f79-cc99-c866-381d-4198cec0688b"
@@ -16,5 +17,7 @@
   nuclide:
     "nuclide-home":
       showHome: false
+  "standard-formatter":
+    style: "happiness"
   welcome:
     showOnStartup: false
