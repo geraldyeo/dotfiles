@@ -1,5 +1,17 @@
 "*":
   core:
+    customFileTypes:
+      "source.ini": [
+        ".buckconfig"
+        ".flowconfig"
+      ]
+      "source.json": [
+        ".arcconfig"
+        "BUCK.autodeps"
+      ]
+      "source.python": [
+        "BUCK"
+      ]
     disabledPackages: [
       "tree-view"
     ]
@@ -9,6 +21,7 @@
     ]
   editor:
     fontFamily: "Hack"
+    fontSize: 13
     invisibles: {}
     softTabs: false
     tabLength: 4
@@ -20,10 +33,19 @@
   "file-watcher":
     promptWhenFileHasChangedOnDisk: false
   linter: {}
+  "linter-eslint": {}
+  "linter-stylelint":
+    useStandard: true
   nuclide:
     "nuclide-home":
       showHome: false
+    "nuclide-working-sets": {}
   "standard-formatter":
     style: "happiness"
+  "sync-settings":
+    _analyticsUserId: "ff4ec621-8937-4328-86dd-9465b5394a3a"
+    _lastBackupHash: "3a5a310ddf1d7cf72f565d09361a235fa6d984d0"
+    gistId: "43d6ef82d38c2336400ff96461ba4d3c"
+    personalAccessToken: "5d5af5bf1f4a64e7139df0cab2609f7a0cf3a3b4"
   welcome:
     showOnStartup: false
