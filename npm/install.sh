@@ -10,7 +10,7 @@ run_npm () {
 	then
 	  echo "  Installing npm packages for you."
 
-	  local packages="npm npm-check xo eslint babel-cli karma-cli grunt-cli gulp-cli create-react-project yo"
+	  local packages="npm npm-check iron-node xo eslint babel-cli karma-cli grunt-cli gulp-cli create-react-project yo browser-sync"
 	  npm i -g $packages
 	fi
 }
