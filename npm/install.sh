@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 # NPM
-# 
+#
 # This installs some of the common npm packages
 
 run_npm () {
@@ -10,8 +10,12 @@ run_npm () {
 	then
 	  echo "  Installing npm packages for you."
 
-	  local packages="npm npm-check iron-node xo eslint babel-cli karma-cli grunt-cli gulp-cli create-react-project yo browser-sync"
-	  npm i -g $packages
+	  #local packages="npm npm-check iron-node xo eslint babel-cli karma-cli grunt-cli gulp-cli create-react-project yo browser-sync"
+	  #npm i -g $packages
+	  npm i -g npm npm-check license-checker nsp snyk retire \
+	  	babel-cli karma-cli grunt-cli gulp-cli react-native-cli create-react-app plugman nodal \
+		eslint stylelint stylint \
+		vorlon browser-sync bunyan pm2
 	fi
 }
 
