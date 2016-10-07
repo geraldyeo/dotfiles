@@ -20,7 +20,4 @@ then
   fi
 fi
 
-# Install homebrew packages
-brew install grc coreutils spark git hub git-flow nvm zsh flow thefuck autoenv
-
 exit 0
