@@ -6,10 +6,8 @@
 
 run_apm () {
 	# Check for apm
-	if test $(which apm)
-	then
+	if test $(which apm); then
 	  echo "  Installing apm packages for you."
-
 	  apm login
 	  apm stars --install
 	fi
