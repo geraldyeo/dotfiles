@@ -5,6 +5,7 @@ tap 'puma/puma'
 
 brew 'ack'
 brew 'autoenv'
+brew 'bash'
 brew 'coreutils'
 brew 'flow'
 brew 'git'
