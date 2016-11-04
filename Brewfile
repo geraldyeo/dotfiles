@@ -23,7 +23,6 @@ brew 'spark'
 brew 'thefuck'
 brew 'unrar'
 brew 'wget'
-brew 'yarn'
 brew 'zsh'
 
 cask '1password'
